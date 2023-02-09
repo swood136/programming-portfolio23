@@ -17,6 +17,9 @@ OOP space themed video game built in Processing 4.
 [Game Source Code](https://github.com/swood136/programming-portfolio23/tree/main/src/game)
 
 ## C++ Projects
+
+### Shape Maker
+
 A program that takes in user input to find surface area and volume of objects.
 
 [Source Code]()
