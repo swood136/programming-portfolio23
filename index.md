@@ -12,6 +12,6 @@ OOP graphical calculator built in Processing 4.
 ### Space Game
 OOP space themed video game built in Processing 4.
 
-![Running Game]()
+![Running Game](https://github.com/swood136/programming-portfolio23/blob/main/images/spaceGame.png?raw=true)
 
 [Game Source Code]()
