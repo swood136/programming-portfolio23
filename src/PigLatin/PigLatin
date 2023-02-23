@@ -1,0 +1,37 @@
+#include <algorithm>
+#include <cstdlib>
+#include <iostream>
+using namespace std;
+string word, fLetter, lPart, sLetter, tLetter;
+int chars;
+
+int main() {
+  cout << "Input a word to be converted to PigLatin ";
+  getline(cin, word);
+  transform(word.begin(), word.end(), word.begin(), ::tolower);
+  chars = word.length();
+  fLetter = word[0];
+  sLetter = word[1];
+  tLetter = word[2];
+  for (int i = 3; i < chars; i++) {
+    lPart += word[i];
+  }
+  if (fLetter == "a" | fLetter == "e" | fLetter == "i" | fLetter == "o" |
+      fLetter == "u") {
+    cout << "PigLatin translation: " + fLetter + sLetter + tLetter + lPart +
+                "way";
+  } else if (sLetter == "a" | sLetter == "e" | sLetter == "i" | sLetter == "o" |
+             sLetter == "u") {
+    cout << "PigLatin translation: " + sLetter + tLetter + lPart + fLetter +
+                "ay";
+  } else if (tLetter == "a" | tLetter == "e" | tLetter == "i" | tLetter == "o" |
+             tLetter == "u") {
+    cout << "PigLatin translation: " + tLetter + lPart + fLetter + sLetter +
+                "ay";
+  } else {
+    cout << "PigLatin translation: " + lPart + fLetter + sLetter + tLetter +
+                "ay";
+  }
+  // cout << "Characters: " + to_string(chars) + " " + word +
+  //             " First letter: " + fLetter + " Rest of Word: " + lPart;
+}
