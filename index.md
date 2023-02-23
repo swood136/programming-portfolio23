@@ -28,4 +28,4 @@ A program that takes in user input to find surface area and volume of objects.
 
 A program that can convert any word to Pig Latin
 
-[Source COde](https://github.com/swood136/programming-portfolio23/blob/main/src/PigLatin/PigLatin)
+[Source Code](https://github.com/swood136/programming-portfolio23/blob/main/src/PigLatin/PigLatin)
