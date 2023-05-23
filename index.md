@@ -1,6 +1,6 @@
 # 2022-23 Programmming Projects
 
-## Processing Projects
+## Java Projects
 
 ### Calculator
 OOP graphical calculator built in Processing 4.
@@ -29,3 +29,10 @@ A program that takes in user input to find surface area and volume of objects.
 A program that can convert any word to Pig Latin
 
 [Source Code](https://github.com/swood136/programming-portfolio23/blob/main/src/PigLatin/PigLatin)
+
+### Star Chess
+
+This is a fully functioning Star Wars themed chess game built in a team using Replit.
+
+![Running Game]( )
+[Source Code] https://github.com/RobertBu1/Group_StarChess)
