@@ -34,7 +34,7 @@ A program that can convert any word to Pig Latin
 
 This is a fully functioning Star Wars themed chess game built in a team using Replit.
 
-![Running Game](https://github.com/swood136/programming-portfolio23/blob/main/images/Screen%20Shot%202023-05-23%20at%209.45.54%20AM.png)
+![Running Game](https://github.com/swood136/programming-portfolio23/blob/main/images/Screen%20Shot%202023-05-23%20at%209.45.54%20AM.png?raw=true)
 
 [Play it on Replit](https://replit.com/@the-do-nothings/Star-Chess)
 
