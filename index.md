@@ -36,4 +36,4 @@ This is a fully functioning Star Wars themed chess game built in a team using Re
 
 ![Running Game]( )
 
-[Source Code] (https://github.com/RobertBu1/Group_StarChess)
+[Source Code](https://github.com/RobertBu1/Group_StarChess)
