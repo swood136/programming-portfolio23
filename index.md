@@ -38,4 +38,4 @@ This is a fully functioning Star Wars themed chess game built in a team using Re
 
 [Play it on Replit](https://replit.com/@the-do-nothings/Star-Chess)
 
-[Source Code](https://github.com/RobertBu1/Group_StarChess)
+[Source Code](https://github.com/RobertBu1/Group_StarChess/tree/main/src)
